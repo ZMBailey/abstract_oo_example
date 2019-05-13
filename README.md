@@ -1,2 +1,2 @@
-# abstract_oo_example
-Class Abstraction tutorial
+#Class Abstraction tutorial
+example classes
